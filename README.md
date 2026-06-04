@@ -271,6 +271,6 @@ server/
 
 Built by Abhishek Singh
 
-Software Engineering Student | Full Stack Developer | Esports Tech Builder
+Software Engineering Student | Full Stack Developer
 
 ---
